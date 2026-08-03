@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1861428,RESOLUTION=1920x1080
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled32@job-oagente-s03-ep02-b2/oagente-s03-ep02-b2/hls/index.m3u8
